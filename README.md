@@ -9,3 +9,12 @@ This repository serves as a centralized hub for:
 * Workflow templates for development processes
 
 Perfect for developers who need fast access to essential commands and syntax without diving into full documentation.
+
+### 🚀 Getting Started
+Clone this repository:
+
+``` bash
+mkdir developer-cheat-sheets
+cd developer-cheat-sheets
+git clone https://github.com/KillTheAI/Git-Basics.git
+```
