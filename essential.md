@@ -334,5 +334,3 @@ git branch temp-branch       # Create branch from current state
 | `git stash` | Temporarily save changes |
 
 Remember to replace `<placeholders>` with actual values when using these commands!
-
-### remove ->
